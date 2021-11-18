@@ -1,5 +1,4 @@
 # Project E-perfume-EDA
-![LOGO](https://user-images.githubusercontent.com/70607618/142229197-e7963070-b87e-4fe0-8e7f-418708fbdd4e.jpeg)
 
 
 The objective of this project is to discover the best selling men's and women's perfume scents in online stores and the most rated brand from buyers to find out the most popular scents for men and women, the objective of this analysis is to open a store during the period of entertainment seasons
